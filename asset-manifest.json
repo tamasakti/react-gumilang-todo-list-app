@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-gumilang-todo-list-app/static/css/main.ab64ebd4.css",
+    "main.js": "/react-gumilang-todo-list-app/static/js/main.1e1a9576.js",
+    "index.html": "/react-gumilang-todo-list-app/index.html",
+    "main.ab64ebd4.css.map": "/react-gumilang-todo-list-app/static/css/main.ab64ebd4.css.map",
+    "main.1e1a9576.js.map": "/react-gumilang-todo-list-app/static/js/main.1e1a9576.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab64ebd4.css",
+    "static/js/main.1e1a9576.js"
+  ]
+}
